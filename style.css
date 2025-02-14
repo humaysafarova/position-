@@ -1,4 +1,24 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+#a .box {
+  padding: 10px;
+}
+#a .box .minibox, #a .box .minibox1 {
+  width: 120px;
+  height: 120px;
+  background-color: #487ebb;
+  margin-bottom: 10px;
+}
+#a .box .minibox h1, #a .box .minibox1 h1 {
+  color: white;
+  font-size: 25px;
+  margin-left: 10px;
+}
+#a .box .minibox1 {
+  position: absolute;
+  left: 240px;
+  top: 280px;
 }/*# sourceMappingURL=style.css.map */
