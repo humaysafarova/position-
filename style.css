@@ -47,4 +47,25 @@ body {
   position: absolute;
   left: 250px;
   top: 150px;
+}
+
+#c .box {
+  padding: 10px;
+}
+#c .box .minibox, #c .box .minibox1 {
+  width: 120px;
+  height: 120px;
+  background-color: #a96290;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+#c .box .minibox h1, #c .box .minibox1 h1 {
+  color: white;
+  margin-left: 10px;
+  font-size: 20px;
+}
+#c .box .minibox1 {
+  position: absolute;
+  left: 400px;
+  top: 400px;
 }/*# sourceMappingURL=style.css.map */
