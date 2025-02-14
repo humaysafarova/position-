@@ -21,4 +21,30 @@ body {
   position: absolute;
   left: 240px;
   top: 280px;
+}
+
+#b .box {
+  padding: 10px;
+}
+#b .box .minibox, #b .box .minibox1, #b .box .minibox2 {
+  width: 120px;
+  height: 120px;
+  background-color: #08875f;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+#b .box .minibox h1, #b .box .minibox1 h1, #b .box .minibox2 h1 {
+  color: white;
+  font-size: 20px;
+  margin-left: 10px;
+}
+#b .box .minibox1 {
+  position: absolute;
+  left: 250px;
+  top: 20px;
+}
+#b .box .minibox2 {
+  position: absolute;
+  left: 250px;
+  top: 150px;
 }/*# sourceMappingURL=style.css.map */
