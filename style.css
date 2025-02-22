@@ -11,6 +11,7 @@ body {
   height: 120px;
   background-color: #487ebb;
   margin-bottom: 10px;
+  padding-top: 10px;
 }
 #a .box .minibox h1, #a .box .minibox1 h1 {
   color: white;
